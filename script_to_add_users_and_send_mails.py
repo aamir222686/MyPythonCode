@@ -97,7 +97,9 @@ class MessageUser():
 				except SMTPException:
 					print("Email Not Sent")
 			return True
-		return false	
+		return false
+
+#check and execute			
 
 
 
