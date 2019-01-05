@@ -98,8 +98,7 @@ class MessageUser():
 					print("Email Not Sent")
 			return True
 		return false
-
-#check and execute			
+			
 
 
 
